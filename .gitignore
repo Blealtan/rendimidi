@@ -1,0 +1,9 @@
+# Exclude all
+/*
+
+!/.gitignore
+!/CMakeLists.txt
+!/cmake
+!/example
+!/include
+!/src
